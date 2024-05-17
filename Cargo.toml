@@ -30,6 +30,7 @@ anyhow = "1.0.83"
 serde = { version = "1.0.201", features = ["derive"] }
 serde_qs = "0.13.0"
 embedded-svc = "0.27"
+chrono = "0.4.38"
 
 [build-dependencies]
 embuild = "0.31.3"
